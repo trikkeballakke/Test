@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T13:42:30.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gRHYA4mMXnLHCftKTqN-" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T13:44:47.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="R0IVmYtHDBZixFgL6h8i" version="21.3.2" type="github">
   <diagram name="Page-1" id="4amIJGpFAnok3loFPaDU">
-    <mxGraphModel dx="1750" dy="1315" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="1086" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,10 @@
         <mxCell id="elHTS2MzDjqfxb-_1dfj-26" value="Database" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1198" y="379" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zoUdu8iCxYcncd2xAAxY-3" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zoUdu8iCxYcncd2xAAxY-15" value="Mosse precedenti&lt;br&gt;Next best moves" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="elHTS2MzDjqfxb-_1dfj-26">
+          <mxGeometry x="6" y="33" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zoUdu8iCxYcncd2xAAxY-3" value="Output" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="379" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zoUdu8iCxYcncd2xAAxY-6" value="previous configuration&lt;br&gt;next best move" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zoUdu8iCxYcncd2xAAxY-3">
@@ -95,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zoUdu8iCxYcncd2xAAxY-14" value="Visualizza" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="483" y="373" width="60" height="30" as="geometry" />
+          <mxGeometry x="327" y="399" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
