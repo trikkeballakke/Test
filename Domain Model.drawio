@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T14:35:08.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GRZADpUELLeNn6JiGIKQ" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T14:35:32.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="KQfrC1ky6_GQBjRK-1BJ" version="21.3.2" type="github">
   <diagram name="Page-1" id="4amIJGpFAnok3loFPaDU">
     <mxGraphModel dx="2015" dy="1245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="635" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VzGeEJfKSirzglptqGWm-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Utente&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="VzGeEJfKSirzglptqGWm-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Utente&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-3" y="-77" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3ECE0dAHvvkNO9SrSXKV-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Query&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=18;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
@@ -45,7 +45,7 @@
         <mxCell id="zoUdu8iCxYcncd2xAAxY-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mosse precedenti&lt;br&gt;Next best moves&lt;br&gt;Partite salvate&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="elHTS2MzDjqfxb-_1dfj-26" vertex="1">
           <mxGeometry x="7" y="29" width="135" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="zoUdu8iCxYcncd2xAAxY-3" value="Output" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="zoUdu8iCxYcncd2xAAxY-3" value="Output" style="swimlane;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="624" y="313" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zoUdu8iCxYcncd2xAAxY-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zoUdu8iCxYcncd2xAAxY-3" target="elHTS2MzDjqfxb-_1dfj-26" edge="1">
@@ -69,7 +69,7 @@
         <mxCell id="zoUdu8iCxYcncd2xAAxY-14" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Visualizza&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="327" y="332" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zoUdu8iCxYcncd2xAAxY-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Schermata di gioco&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="zoUdu8iCxYcncd2xAAxY-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Schermata di gioco&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="624" y="-77" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zoUdu8iCxYcncd2xAAxY-26" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tasto undo&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tasto reset&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tasto next best move&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Counter mosse&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zoUdu8iCxYcncd2xAAxY-17" vertex="1">
@@ -138,7 +138,7 @@
         <mxCell id="zPOPnl6B7VreMAPAQl8W-14" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Produce&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="729" y="138" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zPOPnl6B7VreMAPAQl8W-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Klotski&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zPOPnl6B7VreMAPAQl8W-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Klotski&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="309.5" y="103" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zPOPnl6B7VreMAPAQl8W-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pezzi&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zPOPnl6B7VreMAPAQl8W-15">
